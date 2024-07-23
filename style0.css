@@ -1,0 +1,365 @@
+
+#principal{
+    width:100vw;
+    height: 50vw;
+    background-color: rgb(179, 240, 245);
+    margin: -1vw;
+    display: flex;
+
+
+}
+#cajafirst{
+    width: 20vw;
+    height: 50vw;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+}
+#cajasecu{
+    width: 75vw;
+    height: 44vw;
+    border: 3px solid rgb(4, 58, 31);
+    position: relative;
+    left: 2vw;
+    top: 3vw;
+    border-radius: 2vw;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+    gap: 3vw;
+    overflow-y: scroll;
+}
+#contenedor{
+    width: 70vw;
+    height: 90vw;
+ 
+}
+a{
+    text-decoration: none;
+    color: black;
+    
+}
+#textcampus{
+    font-size: 2.5vw;
+    position: relative;
+    top: -12vw;
+    color: rgb(28, 8, 136);
+    background-color: rgb(179, 240, 245);
+
+}
+#textcampus:hover{
+    background-color: rgb(243, 246, 247);
+}
+#texttodos{
+    font-size: 1.5vw;
+    position: relative;
+    top: -10vw;
+    left: -1vw;
+    color: rgb(7, 6, 7);
+
+}
+#textabrigos{
+    font-size: 1.5vw;
+    position: relative;
+    top: -8vw;
+    color: rgb(7, 6, 7);
+    left: -4.7vw;
+}
+#textcamisetas{
+    font-size: 1.5vw;
+    position: relative;
+    top: -6vw;
+    color: rgb(7, 6, 7);
+    left: -3.9vw;
+
+}
+#textpantalones{
+    font-size: 1.5vw;
+    position: relative;
+    top: -4vw;
+    color: rgb(7, 6, 7);
+    left: -3.8vw;
+
+}
+#textcarrito{
+    font-size: 1.5vw;
+    position: relative;
+    top: 2vw;
+    color: rgb(7, 6, 7);
+    left: -3.8vw;
+
+}
+
+#todo{
+    width: 2.5vw;
+    height: 2.5vw;
+    position: relative;
+    top: 1vw;
+}
+#todo1{
+    width: 3vw;
+    height: 3vw;
+    position: relative;
+    top: 1vw;
+}
+#todo2{
+    width: 2.5vw;
+    height: 2.5vw;
+    position: relative;
+    top: 1vw;
+    left: -0.5vw;
+}
+#nameabrigos{
+    width: 50vw;
+    height: 4vw;
+    font-size: 3vw;
+    color: rgb(28, 8, 136);
+    position: relative;
+    top: 1.5vw;
+}
+#cuadro1{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: 3vw;
+ 
+  
+}
+
+#abrigosimg1{
+    width: 12.5vw;
+    height: 15vw;
+    border-radius: 2vw;
+    border: 2px solid darkgray ;
+}
+#cuadro2{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -15vw;
+    left: 16vw;
+  
+}
+#abrigosimg2{
+    width: 12.5vw;
+    height: 15vw;
+    border-radius: 2vw;
+    border: 2px solid darkgray ;
+}
+#cuadro3{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -33vw;
+    left: 31vw;
+  
+}
+#abrigosimg3{
+    width: 12.5vw;
+    height: 15vw;
+    border-radius: 2vw;
+    border: 2px solid darkgray ;
+}
+#cuadro4{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -51vw;
+    left: 46vw;
+  
+}
+#abrigosimg4{
+    width: 12.5vw;
+    height: 15vw;
+    border-radius: 2vw;
+    border: 2px solid darkgray ;
+}
+#cuadro5{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -49vw;
+  
+  
+}
+#abrigosimg5{
+    width: 12.5vw;
+    height: 15vw;
+    border-radius: 2vw;
+    border: 2px solid darkgray ;
+}
+#precio{
+    position: absolute;
+    width: 13.5vw;
+    height: 5vw;
+    background-color: darkgray;
+    top: 13vw;
+   border-radius: 1vw;
+   left: -0.3vw;
+ border: 1.5px solid #fff;
+}
+#text{
+   display: flex;
+   flex-direction: column;
+   position: relative;
+   top: 0.5vw;
+}
+#name{
+    color: #fafbfc;
+    font-size: 1.3vw;
+    position: relative;
+    left: 1vw;
+
+}
+#plata{
+    color: #fafbfc;
+    font-size: 1.3vw;
+    position: relative;
+    left: 1vw;
+    top: 1vw;
+}
+#boton{
+    font-size: 1vw;
+    position: relative;
+    left: 8vw;
+    top: -0.6vw;
+    width: 4.5vw;
+    height: 1.5vw;
+    background-color: #fff;
+    text-align: center;
+}
+#cuadritocarro{
+    width: 2vw;
+    height: 2vw;
+    background-color: #fff;
+    position: relative;
+    left: 18vw;
+    top: -1.8vw;
+    border: 1px solid darkgray;
+}
+#copy{
+    font-size: 1.5vw;
+    position: relative;
+    top: 10vw;
+
+}
+#cuadro6{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -67vw;
+    left: 16vw;
+   
+ 
+  
+}
+#cuadro7{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -85vw;
+    left: 31vw;
+
+}
+#cuadro8{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -103vw;
+    left: 46vw;
+   
+ 
+  
+}
+#cuadro9{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -101vw;
+    
+
+}
+#cuadro10{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -119vw;
+    left: 16vw;
+   
+ 
+  
+}
+#cuadro11{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    left: 31vw;
+    top: -137vw;
+}
+#cuadro12{
+
+
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -155vw;
+    left: 46vw;
+   
+}
+#cuadro13{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -153vw;
+
+}
+#cuadro14{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -171vw;
+    left: 16vw;
+    
+
+}
+#cuadro15{
+    width: 12vw;
+    height: 18vw;
+    background-color: darkgray;
+    border-radius: 2vw;
+    position: relative;
+    top: -189vw;
+    left: 31vw;
+   
+ 
+  
+}

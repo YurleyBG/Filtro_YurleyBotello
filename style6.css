@@ -123,12 +123,13 @@ a{
     border: 1px solid darkgray;
 }
 #cuadro1{
-    width: 35vw;
-    height: 18vw;
-    background-color: darkgray;
+    width: 5vw;
+    height: 2vw;
+    justify-content: center;
+    text-align: center;
     border-radius: 2vw;
-    position: relative;
-    top: 6vw;
-    left: -10vw;
+    position: absolute;
+    border: 1px solid green;
+    top: 38vw;
   
 }

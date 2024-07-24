@@ -43,38 +43,59 @@ a{
 #textcampus{
     font-size: 2.5vw;
     position: relative;
-    top: -12vw;
+    top: -9vw;
     color: rgb(28, 8, 136);
     background-color: rgb(179, 240, 245);
 
 }
-#textcampus:hover{
+#texttodos:hover{
     background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
+#textabrigos:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
+#textcamisetas:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
+#textpantalones:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
+#textcarrito:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
 }
 #texttodos{
     font-size: 1.5vw;
+    padding-bottom: 1vw;
     position: relative;
-    top: -10vw;
+    top: -7vw;
     left: -1vw;
     color: rgb(7, 6, 7);
 
 }
 #textabrigos{
+    padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
-    top: -8vw;
+    top: -6vw;
     color: rgb(7, 6, 7);
     left: -4.7vw;
 }
 #textcamisetas{
+    padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
-    top: -6vw;
+    top: -5vw;
     color: rgb(7, 6, 7);
     left: -3.9vw;
 
 }
 #textpantalones{
+    padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
     top: -4vw;
@@ -83,9 +104,10 @@ a{
 
 }
 #textcarrito{
+    padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
-    top: 2vw;
+    top: 1.5vw;
     color: rgb(7, 6, 7);
     left: -3.8vw;
 

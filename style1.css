@@ -33,29 +33,51 @@ a{
     display: flex;
     gap: 3vw;
 }
+#texttodos:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
+#textabrigos:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
+#textcamisetas:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
+#textpantalones:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
+#textcarrito:hover{
+    background-color: rgb(243, 246, 247);
+    border-radius: 1vw;
+}
 #textcampus{
     font-size: 2.5vw;
     position: relative;
-    top: -12vw;
+    top: -9vw;
     color: rgb(28, 8, 136);
 
 }
 #texttodos{
     font-size: 1.5vw;
     position: relative;
-    top: -10vw;
+    top: -8vw;
     left: -1vw;
     color: rgb(7, 6, 7);
 
 }
 #textabrigos{
+    padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
-    top: -8vw;
+    top: -7vw;
     color: rgb(7, 6, 7);
     left: -4.7vw;
 }
 #textcamisetas{
+    padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
     top: -6vw;
@@ -64,6 +86,7 @@ a{
 
 }
 #textpantalones{
+    padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
     top: -4vw;
@@ -72,6 +95,7 @@ a{
 
 }
 #textcarrito{
+    padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
     top: 2vw;
@@ -179,7 +203,7 @@ a{
     border-radius: 2vw;
     position: relative;
     top: 25vw;
-    left: -74vw;
+    left: -75.5vw;
   
 }
 #abrigosimg5{

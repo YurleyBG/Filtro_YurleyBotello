@@ -55,11 +55,11 @@
 
 }
 #texttodos{
+    font-size: 2vw;
     padding-bottom: 1vw;
-    font-size: 1.5vw;
     position: relative;
-    top: -8vw;
-    left: -1vw;
+    top: -4vw;
+    left: 2vw;
     color: rgb(7, 6, 7);
 
 }
@@ -84,7 +84,7 @@
     padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
-    top: -4vw;
+    top: -5vw;
     color: rgb(7, 6, 7);
     left: -3.8vw;
 

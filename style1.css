@@ -89,7 +89,7 @@ a{
     padding-bottom: 1vw;
     font-size: 1.5vw;
     position: relative;
-    top: -4vw;
+    top: -5vw;
     color: rgb(7, 6, 7);
     left: -3.8vw;
 
@@ -230,14 +230,14 @@ a{
 }
 #name{
     color: #fafbfc;
-    font-size: 1.3vw;
+    font-size: 1vw;
     position: relative;
     left: 1vw;
 
 }
 #plata{
     color: #fafbfc;
-    font-size: 1.3vw;
+    font-size: 1vw;
     position: relative;
     left: 1vw;
     top: 1vw;
@@ -248,9 +248,12 @@ a{
     left: 8vw;
     top: -0.6vw;
     width: 4.5vw;
-    height: 1.5vw;
+    height: 1.2vw;
     background-color: #fff;
     text-align: center;
+}
+#boton:hover{
+    background-color: rgb(179, 240, 245);
 }
 #cuadritocarro{
     width: 2vw;
@@ -266,4 +269,295 @@ a{
     position: relative;
     top: 10vw;
 
+}
+@media screen and (max-width: 430px){
+    body{
+        background-color: rgb(179, 240, 245);
+    }   
+    #principal{
+        width:100vw;
+        height: 110vw;
+        background-color: rgb(179, 240, 245);
+        margin: -2vw;
+        display: flex;
+        overflow: hidden;
+    
+    
+    }
+    #cajafirst{
+        width: 20vw;
+        height: 50vw;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        flex-direction: column;
+    }
+    #cajasecu{
+        width: 60vw;
+        height: 100vw;
+        border: 3px solid rgb(4, 58, 31);
+        position: relative;
+        left: 10vw;
+        top: 6vw;
+        border-radius: 2vw;
+        background-color: #ffffff;
+        display: flex;
+        justify-content: center;
+        gap: 3vw;
+       
+    }
+    #contenedor{
+        width: 60vw;
+        height: 190vw;
+    
+    }
+    a{
+        text-decoration: none;
+        color: black;
+        
+    }
+    #textcampus{
+        font-size: 4.5vw;
+        position: relative;
+        top: -6vw;
+        left:1.5vw;
+        color: rgb(28, 8, 136);
+        background-color: rgb(179, 240, 245);
+    
+    }
+    #texttodos:hover{
+        background-color: rgb(243, 246, 247);
+        border-radius: 1vw;
+    }
+    #textabrigos:hover{
+        background-color: rgb(243, 246, 247);
+        border-radius: 1vw;
+    }
+    #textcamisetas:hover{
+        background-color: rgb(243, 246, 247);
+        border-radius: 1vw;
+    }
+    #textpantalones:hover{
+        background-color: rgb(243, 246, 247);
+        border-radius: 1vw;
+    }
+    #textcarrito:hover{
+        background-color: rgb(243, 246, 247);
+        border-radius: 1vw;
+    }
+    #texttodos{
+        font-size: 2vw;
+        padding-bottom: 1vw;
+        position: relative;
+        top: -4vw;
+        left: 2vw;
+        color: rgb(7, 6, 7);
+    
+    }
+    #textabrigos{
+        padding-bottom: 1vw;
+        font-size: 2vw;
+        position: relative;
+        top: -3vw;
+        color: rgb(7, 6, 7);
+        left: -2.8vw;
+    }
+    #textcamisetas{
+        padding-bottom: 1vw;
+        font-size: 2vw;
+        position: relative;
+        top: -2vw;
+        color: rgb(7, 6, 7);
+        left: -1.8vw;
+    
+    }
+    #textpantalones{
+        padding-bottom: 1vw;
+        font-size: 2vw;
+        position: relative;
+        top: -1vw;
+        color: rgb(7, 6, 7);
+        left: -1.8vw;
+    
+    }
+    #textcarrito{
+        padding-bottom: 1vw;
+        font-size: 2vw;
+        position: relative;
+        top: 2vw;
+        color: rgb(7, 6, 7);
+        left: -1.8vw;
+    
+    }
+    
+    #todo{
+        width: 3vw;
+        height: 3vw;
+        position: relative;
+        top: 1vw;
+    }
+    #todo1{
+        width: 3.5vw;
+        height: 3.5vw;
+        position: relative;
+        top: 1vw;
+    }
+    #todo2{
+        width: 3.5vw;
+        height: 3.5vw;
+        position: relative;
+        top: 1vw;
+        left: -0.5vw;
+    }
+    #nameabrigos{
+        width: 50vw;
+        height: 4vw;
+        font-size: 4vw;
+        color: rgb(28, 8, 136);
+        position: relative;
+        top: 2.5vw;
+        left: 48vw;
+    }
+    #cuadro1{
+        width: 23vw;
+        height: 26vw;
+        background-color: darkgray;
+        border-radius: 2vw;
+        position: relative;
+        top: 10vw;
+        left:31vw;
+     
+      
+    }
+    
+    #abrigosimg1{
+        width: 22.5vw;
+        height: 20vw;
+        border-radius: 2vw;
+        border: 2px solid darkgray ;
+    }
+    #cuadro2{
+        width: 23vw;
+        height: 26vw;
+        background-color: darkgray;
+        border-radius: 2vw;
+        position: relative;
+        top: 10vw;
+        left:31vw;
+      
+    }
+    #abrigosimg2{
+        width: 22.5vw;
+        height: 20vw;
+        border-radius: 2vw;
+        border: 2px solid darkgray ;
+    }
+    #cuadro3{
+        width: 22vw;
+        height: 26vw;;
+        background-color: darkgray;
+        border-radius: 2vw;
+        position: relative;
+        top: 38vw;
+        left:-24vw;
+      
+    }
+    #abrigosimg3{
+        width: 22.5vw;
+        height: 20vw;
+        border-radius: 2vw;
+        border: 2px solid darkgray ;
+    }
+    #cuadro4{
+        width: 23vw;
+        height: 26vw;
+        background-color: darkgray;
+        border-radius: 2vw;
+        position: relative;
+        top: 38vw;
+        left:-20vw;
+      
+    }
+    #abrigosimg4{
+        width: 22.5vw;
+        height: 20vw;
+        border-radius: 2vw;
+        border: 2px solid darkgray ;
+    }
+    #cuadro5{
+        width: 23vw;
+        height: 26vw;
+        background-color: darkgray;
+        border-radius: 2vw;
+        position: relative;
+        top: 66vw;
+        left:-75vw;
+      
+      
+    }
+    #abrigosimg5{
+        width: 22.5vw;
+        height: 20vw;
+        border-radius: 2vw;
+        border: 2px solid darkgray ;
+    }
+    #precio{
+        position: absolute;
+        width: 23.5vw;
+        height: 8vw;
+        background-color: darkgray;
+        top: 18vw;
+        border-radius: 1vw;
+        left: -0.3vw;
+        border: 1.5px solid #fff;
+    }
+    #text{
+       display: flex;
+       flex-direction: column;
+       position: relative;
+       top: 0.5vw;
+    }
+    #name{
+        color: #fafbfc;
+        font-size: 2vw;
+        position: relative;
+        left: 1vw;
+        
+    
+    }
+    #plata{
+        color: #fafbfc;
+        font-size: 2vw;
+        position: relative;
+        left: 1vw;
+        top: 0.5vw;
+    }
+    #boton{
+        font-size: 1.5vw;
+        position: relative;
+        left: 14vw;
+        top: -1.8vw;
+        width: 6.5vw;
+        height: 1.8vw;
+        background-color: #fff;
+        text-align: center;
+    }
+    #boton:hover{
+        background-color: rgb(179, 240, 245);
+    }
+    #cuadritocarro{
+        width: 2vw;
+        height: 2vw;
+        background-color: #fff;
+        position: relative;
+        left: 18vw;
+        top: -1.8vw;
+        border: 1px solid darkgray;
+    }
+    #copy{
+        font-size: 1.5vw;
+        position: relative;
+        top: 10vw;
+    
+    }
 }

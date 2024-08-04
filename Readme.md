@@ -43,7 +43,7 @@ al hacer esto se descargará  los datos del repositorio. puedes usar visual stud
 
 ![alt text](pinctures/image1.png)
 
-Cada sección permite un cambio de página automático al presionar cualquiera de las secciones ahí mostradas.
+Cada sección permite un cambio de página automático al presionar cualquiera de las ahí mostradas.
 
 ### Secciones 
 + Todos los productos.

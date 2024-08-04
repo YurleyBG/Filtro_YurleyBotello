@@ -13,9 +13,9 @@
 | 6 | index5 |
 
 ## Instalación
- Deberas ejecutar el siguiente comando para clonar el repositorio y verlo cesde tu maquina local:
+ Deberas ejecutar el siguiente comando para clonar el repositorio y verlo desde tu maquina local:
  
- Bash
+ Gith Bash
 
 ~~~ 
 git clone  "link del repositorio"

@@ -3,14 +3,14 @@
  Aplicativo web implementado para  la venta de ropa only buscando la interación con diferentes personas del mundo para una mejor comodidad y facilidad de compra.
 
 ## Tabla De Contenido
-| Índice | Título |
-|--|------|
-| 1 | index0 | 
-| 2 | index1 |
-| 3 | index2 |
-| 4 | index3 |
-| 5 | index4 |
-| 6 | index5 |
+| Índice | Título |Descripción|
+|--|------|----|
+| 1 | index0 | Todo los productos|
+| 2 | index1 |Abrigos|
+| 3 | index2 |Camisetas|
+| 4 | index3 |Pantalones|
+| 5 | index4 |Carrito|
+| 6 | index5 |Carrito vacio|
 
 ## Instalación
  Deberas ejecutar el siguiente comando para clonar el repositorio y verlo desde tu maquina local:

@@ -18,7 +18,7 @@
  Gith Bash
 
 ~~~ 
-git clone  "link del repositorio"
+git clone  "link del repositorio" https://github.com/YurleyBG/Filtro_YurleyBotello.git
 ~~~
 al hacer esto se descargará  los datos del repositorio. puedes usar visual studio code  y descargar la extensión live server para abrir los archivos index.
 
